@@ -1,7 +1,6 @@
-Capstone Oms
-============
-
-Capstone Project 
+Capstone Books
+==============
+Capstone Project for Bloc
 
 
 Purpose
@@ -33,6 +32,7 @@ As a user, I should be able to see duplicate orders.
 - [ ] As a admin, I can create and remove users by supplying an email and password. 
 - [ ] As a user, I should be able to login and logout of the system using my email address. 
 - [ ] As a user, I should be prompted to change my password the first time I login.
+
 
 Resources
 ---------
